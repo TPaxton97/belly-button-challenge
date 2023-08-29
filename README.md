@@ -9,3 +9,5 @@ template code for creating a bubble chart: https://plotly.com/javascript/bubble-
 help with displaying metadata: BSC Assistant
 
 help with formatting the functions to create dropdown menu and bar chart: Tutor
+
+collaborated with Renee to compare code
